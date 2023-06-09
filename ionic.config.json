@@ -1,0 +1,7 @@
+{
+  "name": "UjianMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
